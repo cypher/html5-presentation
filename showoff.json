@@ -1,4 +1,9 @@
 [
-  {"section":"one"},
-  {"section":"two"}
+  {"section":"title"},
+  {"section":"canvas"},
+  {"section":"media"},
+  {"section":"localstorage"},
+  {"section":"offline"},
+  {"section":"elements"},
+  {"section":"other"}
 ]
