@@ -1,5 +1,6 @@
 [
   {"section":"title"},
+  {"section":"structure"},
   {"section":"canvas"},
   {"section":"media"},
   {"section":"localstorage"},
