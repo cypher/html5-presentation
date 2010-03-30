@@ -28,27 +28,22 @@
 
 !SLIDE
 
-	@@@ html
-	<input name="q" placeholder="Search me!"
-
+# forms #
 
 !SLIDE
 
 	@@@ html
-	<input name="q" placeholder="Search me!"
-
+	<input name="q" placeholder="Search me!">
 
 !SLIDE
 
 	@@@ html
 	<input name="q" autofocus>
 
-
 !SLIDE
 
 	@@@ html
 	<input type="email">
-
 
 !SLIDE
 
