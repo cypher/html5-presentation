@@ -4,7 +4,7 @@
 
 !SLIDE execute
 
-# Spinner #
+# Ex.: Spinner #
 
 	@@@ javascript
 	buildSpinner({
