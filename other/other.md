@@ -1,6 +1,6 @@
-!SLIDE
+!SLIDE center
 
-# Geolocation #
+![geolocation.png](img/geolocation.png)
 
 !SLIDE
 
@@ -9,11 +9,15 @@
 
 !SLIDE
 
-# Not done yet
+# Not done yet #
 
 !SLIDE
 
-# Partial support
+# Partial support #
+
+!SLIDE
+
+# [Modernizr](http://www.modernizr.com/) #
 
 !SLIDE bullets incremental
 
