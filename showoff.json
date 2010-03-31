@@ -1,10 +1,10 @@
 [
   {"section":"title"},
   {"section":"structure"},
+  {"section":"elements"},
   {"section":"canvas"},
   {"section":"media"},
   {"section":"localstorage"},
   {"section":"offline"},
-  {"section":"elements"},
   {"section":"other"}
 ]
